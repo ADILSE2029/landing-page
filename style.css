@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.top-box {
+  background-color: #1f2937;
+}
+.top-box-styling{
+    max-width: 1200px;
+    margin:0 auto ;
+}
+.text-work h2 {
+  font-size: 48px;
+  color: #f9faf8;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+.links {
+  display: flex;
+  margin: 20px;
+  gap: 50px;
+  color: #e5e7eb;
+  font-size: 25px;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-section {
+  display: flex;
+  justify-content: space-between;
+  margin: 80px;
+}
+
+.copyright {
+  background-color: #1f2937;
+}
+
+.signup{
+    background-color: #3882F6;
+}
+
+.quote-section{
+    background-color: #e5e7eb;
+}
