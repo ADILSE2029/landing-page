@@ -22,14 +22,12 @@ a {
   text-decoration: none;
 }
 
-.links{
+.links {
   display: flex;
   margin: 0;
   margin-top: 20px;
   gap: 50px;
 }
-
-
 
 .text-and-image-section {
   display: flex;
@@ -45,10 +43,9 @@ a {
 .hero-header {
   display: flex;
   justify-content: space-between;
-  
 }
 
-.hero-header p{
+.hero-header p {
   margin: 0;
   margin-top: 20px;
 }
@@ -61,12 +58,9 @@ a {
   border-radius: 18px;
   width: 50%;
   overflow: hidden;
-
 }
 
-.img img{
+.img img {
   height: 300px;
   width: 100%;
-  
 }
-
